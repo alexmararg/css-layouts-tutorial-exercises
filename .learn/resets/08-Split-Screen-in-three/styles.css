@@ -1,19 +1,12 @@
 body {
 	margin: 0;
-	display: flex;
 }
 #sectionA {
 	background: blue;
-	width: 33%;
-	height: 100%;
 }
 #sectionB {
 	background: red;
-	width: 33%;
-	height: 100%;
 }
 #sectionC {
 	background: green;
-	width: 33%;
-	height: 100%;
 }
